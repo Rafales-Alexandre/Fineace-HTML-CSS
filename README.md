@@ -17,7 +17,7 @@ Prenez les deux fichiers SVG dans le dossier Figma puis glissez/déposez dans vo
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Integration_statique-FineAce/Figma/Fineace-Landing_Page.svg" alt="Page" width="300" /></p>
+<p align="center"><img src="https://github.com/Integration_statique-FineAce/img/Fineace - Landing Page.png" alt="Page" width="300" /></p>
 
 ## Bug & améliorations
 
