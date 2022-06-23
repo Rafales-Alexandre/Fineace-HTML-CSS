@@ -3,7 +3,7 @@
 
 
 
-# Intégration statique Furniture
+# Intégration statique Fineance
 
 Ce repository contient le starter kit du projet intégration statique Furniture disponible sur [Microlead.fr](https://microlead.fr)
 
@@ -17,7 +17,7 @@ Prenez les deux fichiers SVG dans le dossier Figma puis glissez/déposez dans vo
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_statique-Furniture/blob/main/img/Template/Furniture Web.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Integration_statique-FineAce/Figma/Fineace - Landing Page.svg" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
