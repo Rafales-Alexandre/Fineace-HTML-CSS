@@ -5,7 +5,7 @@
 
 # Intégration statique Fineance
 
-Ce repository contient le starter kit du projet intégration statique Furniture disponible sur [Microlead.fr](https://microlead.fr)
+Ce repository contient le starter kit du projet intégration statique FineAce disponible sur [Microlead.fr](https://microlead.fr)
 
 ## Prérequis
 
@@ -13,7 +13,7 @@ Ce repository contient le starter kit du projet intégration statique Furniture 
 - [CSS niveau 9](https://microlead.fr/echelles/css)
 
 ## Importation dans figma
-Prenez les deux fichiers SVG dans le dossier Figma puis glissez/déposez dans votre navigateur en étant connecté sur figma pour avoir acces à la maquette.
+Prenez les fichiers SVG dans le dossier Figma puis glissez/déposez dans votre navigateur en étant connecté sur figma pour avoir acces à la maquette.
 
 ## Previsualisation de la maquette
 
@@ -27,7 +27,7 @@ Les propositions d'amélioration sont les bienvenues, venez en discuter avec nou
 
 ## Copyright & License
 
-Maquette produite par Naitcréative Https://Naitcreative.com// </br>
+Maquette produite par figma</br>
 Copyright © 2020-2022 Microlead. Tous droits réservés
 
 ## Suivre
